@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**billycychan/billycychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Billy Chan, a skilled iOS engineer living in Canada🇨🇦 and from Hong Kong🇭🇰  Dedicated to crafting iOS applications with good user experience.
 
-Here are some ideas to get you started:
+My Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects 📂
+
+#### Company
+- [Coinmama](https://www.coinmama.com/) 💳
+- [Canada Post](https://www.canadapost-postescanada.ca/cpc/en/home.page) 💌
+- [Lalamove](https://www.lalamove.com/) 🚚
+#### Personal
+- [SwiftUICrypto](https://github.com/billycychan/SwiftUICrypto) 🪙
+- [TwitterClone](https://github.com/billycychan/TwitterTutorial) 🤖
+- [NetworkLayer](https://github.com/billycychan/ios-network-layer-demo) 🛜
+- [GithubPlayground](https://github.com/bill0930/ios-GithubPlayground) 🛝
+- [ObjectiveC-notes](https://github.com/bill0930/BNR-Objective-C-Programming) 📚
