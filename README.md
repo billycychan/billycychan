@@ -8,11 +8,11 @@ My Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/)
 
 #### Company
 - [Coinmama](https://www.coinmama.com/) 💳
-  - [Screenshots](./Screenshots/SwiftUICrypto/README.md)
 - [Canada Post](https://www.canadapost-postescanada.ca/cpc/en/home.page) 💌
 - [Lalamove](https://www.lalamove.com/) 🚚
 #### Personal
 - [SwiftUICrypto](https://github.com/billycychan/SwiftUICrypto) 🪙
+  - [Screenshots](./Screenshots/SwiftUICrypto/README.md)
 - [TwitterClone](https://github.com/billycychan/TwitterTutorial) 🤖
 - [NetworkLayer](https://github.com/billycychan/ios-network-layer-demo) 🛜
 - [GithubPlayground](https://github.com/bill0930/ios-GithubPlayground) 🛝
