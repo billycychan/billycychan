@@ -38,10 +38,10 @@ My Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/)
 - Featuer Flag with Firebase Remote Config
 
 <div style="display: flex; flex-direction: row;">
-    <img src="./Assets/Screenshots/Coinmama/coinmama-001-home.png" width = "170" />
-    <img src="./Assets/Screenshots/Coinmama/coinmama-002-market-list.png" width="170" />
-    <img src="./Assets/Screenshots/Coinmama/coinmama-003-market-detail.png" width="170" />
-    <img src="./Assets/Screenshots/Coinmama/coinmama-004-recovery.png" width="170" />
+    <img src="./Assets/Screenshots/Coinmama/coinmama-001-home.png" width = "160" />
+    <img src="./Assets/Screenshots/Coinmama/coinmama-002-market-list.png" width="160" />
+    <img src="./Assets/Screenshots/Coinmama/coinmama-003-market-detail.png" width="160" />
+    <img src="./Assets/Screenshots/Coinmama/coinmama-004-recovery.png" width="160" />
 </div>
 <br>
 
@@ -57,10 +57,10 @@ The Canada Post app, available on the App Store, simplifies your postal experien
 - Accessibility with Voice Over
   
 <div style="display: flex; flex-direction: row;">
-    <img src="./Assets/Screenshots/CanadaPost/canada-post-001-home.png" width="170" />
-    <img src="./Assets/Screenshots/CanadaPost/canada-post-002-track.png" width="170" />
-    <img src="./Assets/Screenshots/CanadaPost/canada-post-003-addresses.png" width="170" />
-    <img src="./Assets/Screenshots/CanadaPost/canada-post-004-more.png" width="170" />
+    <img src="./Assets/Screenshots/CanadaPost/canada-post-001-home.png" width="160" />
+    <img src="./Assets/Screenshots/CanadaPost/canada-post-002-track.png" width="160" />
+    <img src="./Assets/Screenshots/CanadaPost/canada-post-003-addresses.png" width="160" />
+    <img src="./Assets/Screenshots/CanadaPost/canada-post-004-more.png" width="160" />
 </div>
 <br>
 
@@ -84,10 +84,10 @@ The Canada Post app, available on the App Store, simplifies your postal experien
 
 
 <div style="display: flex; flex-direction: row;">
-    <img src="./Assets/Screenshots/Lalamove/lalamove-001-home.png" width="170" />
-    <img src="./Assets/Screenshots/Lalamove/lalamove-002-vehicle-selection.png" width="170" />
-    <img src="./Assets/Screenshots/Lalamove/lalamove-003-order-placing.png" width="170" />
-    <img src="./Assets/Screenshots/Lalamove/lalamove-004-finding-driver.png" width="170" />
+    <img src="./Assets/Screenshots/Lalamove/lalamove-001-home.png" width="160" />
+    <img src="./Assets/Screenshots/Lalamove/lalamove-002-vehicle-selection.png" width="160" />
+    <img src="./Assets/Screenshots/Lalamove/lalamove-003-order-placing.png" width="160" />
+    <img src="./Assets/Screenshots/Lalamove/lalamove-004-finding-driver.png" width="160" />
 </div>
 <br>
 
@@ -100,10 +100,10 @@ The Canada Post app, available on the App Store, simplifies your postal experien
 [SwiftUICrypto](https://github.com/billycychan/SwiftUICrypto) is a cryptocurrency app that downloads live price data from an API and saves the current user's portfolio.
 
 <div style="display: flex; flex-direction: row;">
-    <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-001-live-price.png" width="170" />
-    <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-002-portfolio.png" width="170" />
-    <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-003-detail.png" width="170" />
-    <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-004-edit-portfolio.png" width="170" />
+    <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-001-live-price.png" width="160" />
+    <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-002-portfolio.png" width="160" />
+    <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-003-detail.png" width="160" />
+    <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-004-edit-portfolio.png" width="160" />
 </div>
 <br>
 
