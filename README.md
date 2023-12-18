@@ -9,6 +9,22 @@ My Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/)
 ### Portfolio 📂
 
 
+#### BinTo: Waste Management Tool for Toronto  ♻️
+"BinTo is your essential companion for eco-friendly living in the city. Seamlessly sort your waste with the Waste Wizard feature, ensuring you contribute to a cleaner environment. Stay informed about your next waste collection schedule effortlessly. Simplify your eco-conscious journey with BinTo."
+- SwiftUI
+- MapKit
+- OpenData
+- MV Pattern
+
+<div style="display: flex; flex-direction: row;">
+    <img src="./Assets/Screenshots/BinTo/binto-001-waste-wizard.png" width="150" />
+    <img src="./Assets/Screenshots/BinTo/binto-002-waste-detail.png" width="150" />
+    <img src="./Assets/Screenshots/BinTo/binto-003-waste-schedule.png" width="150" />
+    <img src="./Assets/Screenshots/BinTo/binto-004/../binto-004-location-confirm.png" width="150" />
+</div>
+<br>
+
+
 #### TipTap: Quick Tip Calculator 🧾
 [TipTap](https://apps.apple.com/us/app/tiptap-quick-tip-calculator/id6466767815): Your fast and easy tipping solution! Say goodbye to math hassles and hello to effortless tipping. Download now!
 
@@ -99,6 +115,13 @@ The Canada Post app, available on the App Store, simplifies your postal experien
 
 [SwiftUICrypto](https://github.com/billycychan/SwiftUICrypto) is a cryptocurrency app that downloads live price data from an API and saves the current user's portfolio.
 
+- SwiftUI
+- Combine
+- CoreData
+- MVVM
+- Animation
+- GCD
+
 <div style="display: flex; flex-direction: row;">
     <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-001-live-price.png" width="160" />
     <img src="./Assets/Screenshots/SwiftUICrypto/swiftui-crypto-002-portfolio.png" width="160" />
@@ -108,6 +131,33 @@ The Canada Post app, available on the App Store, simplifies your postal experien
 <br>
 
 Special thanks to Nick Sarno at [Swiftful Thinking](https://www.swiftful-thinking.com/) for providing this production quality [tutorial](https://www.youtube.com/playlist?list=PLwvDm4Vfkdphbc3bgy_LpLRQ9DDfFGcFu). 
+
+<br>
+
+#### Scrumdinger ⌛
+
+Scrumdinger is an app that manages daily meetings.
+
+- SwiftUI essentials
+- Views
+- Navigation and modal presentation
+- Passing data
+- State management
+- Persistence and concurrency
+- Drawing shapes with SwiftUI geometry tools
+- Recording audio
+
+
+<div style="display: flex; flex-direction: row;">
+    <img src="./Assets/Screenshots/Scrumdinger/scrumdinger-001-list.png" width="160" />
+    <img src="./Assets/Screenshots/Scrumdinger/scrumdinger-002-detail.png" width="160" />
+    <img src="./Assets/Screenshots/Scrumdinger/scrumdinger-003-edit.png" width="160" />
+    <img src="./Assets/Screenshots/Scrumdinger/scrumdinger-004-timer.png" width="160" />
+</div>
+<br>
+
+Special thanks to Apple for providing this [iOS App Dev Tutorials](https://developer.apple.com/tutorials/app-dev-training). 
+
 
 #### More
 - [TwitterClone](https://github.com/billycychan/TwitterTutorial) 🤖
