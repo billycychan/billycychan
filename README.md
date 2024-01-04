@@ -20,8 +20,12 @@ My Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/)
     <img src="./Assets/Screenshots/BinTo/binto-001-waste-wizard.png" width="150" />
     <img src="./Assets/Screenshots/BinTo/binto-002-waste-detail.png" width="150" />
     <img src="./Assets/Screenshots/BinTo/binto-003-waste-schedule.png" width="150" />
-    <img src="./Assets/Screenshots/BinTo/binto-004/../binto-004-location-confirm.png" width="150" />
+    <img src="./Assets/Screenshots/BinTo/binto-004-location-confirm.png" width="150" />
 </div>
+<br>
+
+[![name](./Assets/download-on-app-store.svg)](https://apps.apple.com/app/id6475327288)
+<br>
 <br>
 
 
