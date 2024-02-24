@@ -4,7 +4,7 @@ Hi, I'm Billy Chan, a skilled iOS engineer living in Canada 🇨🇦
 
 Dedicated to crafting iOS applications with good user experience.
 
-My Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/)
+Here's my Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/), feel free to send me a linkedin message!
 
 ### Portfolio 📂
 
@@ -48,6 +48,32 @@ My Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/)
 <br>
 <br>
 
+
+#### GHFollowers 🫙
+
+GHFollowers is an iOS app that allows a user to search for GitHub users, and browse their followers.
+
+It was originally a [take home project](https://seanallen.teachable.com/p/take-home) from Sean Allen, I added additional features and refactored the project.  
+
+- MVVMC + Combine
+- Image Caching with NSCache for remote image
+- Generic Network Layer for making network requests
+- Swift Concurrency (async await) adoption
+
+<div style="display: flex; flex-direction: row;">
+    <img src="./Assets/Screenshots/GHFollowers/ghfollowers-001-search.png" width="150" />
+    <img src="./Assets/Screenshots/GHFollowers/ghfollowers-002-listing.png" width="150" />
+    <img src="./Assets/Screenshots/GHFollowers/ghfollowers-003-favorites.png" width="150"/>
+    <img src="./Assets/Screenshots/GHFollowers/ghfollowers-004-userinfo.png" width="150" />
+</div>
+<br>
+
+Special thanks to Sean Allen again for providing this free tutorial again.
+
+<br>
+<br>
+
+
 #### Coinmama 💳
 [Coinmama](https://www.coinmama.com/) is the leading cryptocurrency exchange platform to buy & sell crypto with credit card, debit card or bank transfer. It supports Tether (USDT), USD Coin (USDC), Bitcoin (BTC), and Ethereum (ETH).
 
@@ -55,7 +81,7 @@ My Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/)
 - Analytic Service with Firebase and Appsflyer
 - Unit test with XCTest
 - QR Scanner for Wallet Connect
-- Featuer Flag with Firebase Remote Config
+- Feature Flag with Firebase Remote Config
 
 <div style="display: flex; flex-direction: row;">
     <img src="./Assets/Screenshots/Coinmama/coinmama-001-home.png" width = "160" />
