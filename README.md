@@ -2,9 +2,27 @@
 
 Hi, I'm Billy Chan, a skilled Software Engineer living in Canada 🇨🇦 
 
+I have experience in Web Development(React.js, Vue.js), App Development(iOS, Android) and Python.
+
 Dedicated to crafting applications with good user experience.
 
 Here's my Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/), feel free to send me a linkedin message!
+
+### Web Development 📄
+#### Vue Expense Tracker  🧩
+This is a simple Expense Tracker implemented in Vue. The app allows users to add and remove incomes and expenses. The data is stored in localStorage.
+
+<img src="./Assets/Screenshots/vue-expense-tracker.gif" width="400"/>
+
+[Soure Code](https://github.com/billycychan/vue-expense-tracker)
+
+#### Vue Flag Defence  📷
+This is a WebAR Game "Flag Defence". The webpage can render 3D models on the marker using marker-based AR technology. 
+
+<img src="./Assets/Screenshots/vue-flag-defence.gif" width="400"/>
+
+[Soure Code](https://github.com/bill0930/flag-defense-vue)
+
 
 ### Python 🐍
 #### TicTacToe  🧩
