@@ -15,9 +15,9 @@ Here's my Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/), fee
   - [More](#more)
 
 
-### Web Development 📄
+### Web Development
 
-#### React Food Order  🧩
+#### React Food Order  
 This is a simple food order app implemented in React. The app allows users to fetch meals, view meals and place orders.
 
 <img src="./Assets/Screenshots/react-food-order.png" width="400"/>
@@ -39,7 +39,7 @@ This is a WebAR Game "Flag Defence". The webpage can render 3D models on the mar
 [Soure Code](https://github.com/bill0930/flag-defense-vue)
 
 
-### App Development 📂
+### App Development
 
 #### BinTo: Waste Management Tool for Toronto  ♻️
 "BinTo is your essential companion for eco-friendly living in the city. Seamlessly sort your waste with the Waste Wizard feature, ensuring you contribute to a cleaner environment. Stay informed about your next waste collection schedule effortlessly. Simplify your eco-conscious journey with BinTo."
@@ -191,7 +191,7 @@ Scrumdinger is an app that manages daily meetings.
 
 Special thanks to Apple for providing this [iOS App Dev Tutorials](https://developer.apple.com/tutorials/app-dev-training). 
 
-### Python 🐍
+### Python
 #### TicTacToe  🧩
 This is a simple Tic-Tac-Toe game implemented in Python using the tkinter library for the GUI. The game allows two players to take turns marking the spaces in a 3x3 grid to try and get three of their marks in a row, column, or diagonal.
 
