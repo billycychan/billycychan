@@ -1,43 +1,16 @@
 ### Hi there 👋
 
-Hi, I'm Billy Chan, a skilled Software Engineer living in Canada 🇨🇦 
+Hi, I'm Billy Chan, a skilled Software Engineer living in Canada 🇨🇦.
 
-I have experience in Web Development(React.js, Vue.js), App Development(iOS, Android) and Python.
+I have expertise in iOS application development.
 
 Dedicated to crafting applications with good user experience.
 
 Here's my Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/), feel free to send me a linkedin message!
 
 ## Table of Contents
-  - [Web Development](#web-development)
   - [App Development](#app-development)
-  - [Python](#python)
   - [More](#more)
-
-
-### Web Development
-
-#### React Food Order  
-This is a simple food order app implemented in React. The app allows users to fetch meals, view meals and place orders.
-
-<img src="./Assets/Screenshots/react-food-order.png" width="400"/>
-
-[Soure Code](https://github.com/billycychan/react-food-order)
-
-#### Vue Expense Tracker  🧩
-This is a simple Expense Tracker implemented in Vue. The app allows users to add and remove incomes and expenses. The data is stored in localStorage.
-
-<img src="./Assets/Screenshots/vue-expense-tracker.gif" width="400"/>
-
-[Soure Code](https://github.com/billycychan/vue-expense-tracker)
-
-#### Vue Flag Defence  📷
-This is a WebAR Game "Flag Defence". The webpage can render 3D models on the marker using marker-based AR technology. 
-
-<img src="./Assets/Screenshots/vue-flag-defence.gif" width="400"/>
-
-[Soure Code](https://github.com/bill0930/flag-defense-vue)
-
 
 ### App Development
 
@@ -190,14 +163,6 @@ Scrumdinger is an app that manages daily meetings.
 <br>
 
 Special thanks to Apple for providing this [iOS App Dev Tutorials](https://developer.apple.com/tutorials/app-dev-training). 
-
-### Python
-#### TicTacToe  🧩
-This is a simple Tic-Tac-Toe game implemented in Python using the tkinter library for the GUI. The game allows two players to take turns marking the spaces in a 3x3 grid to try and get three of their marks in a row, column, or diagonal.
-
-<img src="./Assets/Screenshots/python-tictactoe.gif" width="400"/>
-
-[Soure Code](https://github.com/billycychan/python-tictactoe)
 
 #### More
 - [TwitterClone](https://github.com/billycychan/TwitterTutorial) 🤖
