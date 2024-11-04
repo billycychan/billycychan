@@ -24,7 +24,7 @@ Here's my Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/), fee
 - Monitoring and Resilience: Integrated Grafana and Prometheus for observability and reliability.
 ### Python Projects
 #### Local RAG LangChain
-[Local RAG LangChain]((https://github.com/billycychan/LLM-RAG-LANGCHAIN)) is a Jupyter Notebook demonstrating a local Retrieval-Augmented Generation (RAG) pipeline for question-answering and document search.
+[Local RAG LangChain](https://github.com/billycychan/LLM-RAG-LANGCHAIN) is a Jupyter Notebook demonstrating a local Retrieval-Augmented Generation (RAG) pipeline for question-answering and document search.
 
 - Document Processing: Loads and splits PDF content with LangChain’s PyPDFLoader and RecursiveCharacterTextSplitter for efficient retrieval.
 - Embedding and Storage: Embeds document chunks using the nomic-embed-text model with OllamaEmbeddings, storing them in Chroma’s vector database.
