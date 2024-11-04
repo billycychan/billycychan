@@ -2,17 +2,36 @@
 
 Hi, I'm Billy Chan, a skilled Software Engineer living in Canada 🇨🇦.
 
-I have expertise in iOS application development.
+I have experience in various application development, including backend and mobiles with Java, JavaSciprt, Python and Swift.
 
 Dedicated to crafting applications with good user experience.
 
 Here's my Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/), feel free to send me a linkedin message!
 
 ## Table of Contents
-  - [App Development](#app-development)
+  - [Java Projects](#java-projects)
+  - [Python Projects](#python-projects)
+  - [Mobile Development](#mobile-projects)
   - [More](#more)
 
-### App Development
+### Java Projects
+#### Book Store Microservices
+[BookStore](https://github.com/billycychan/bookstore-microservice) is a microservices-based eCommerce platform built with Spring Boot for seamless book browsing, ordering, and notifications.
+- Scalable Microservices Architecture: Modularized services for catalog, order, and notifications, leveraging Spring Cloud.
+- Secure User Authentication: OAuth2-based login via Keycloak, ensuring secure access across services.
+- Event-Driven Notifications: Real-time order updates using RabbitMQ for improved user engagement.
+- Centralized API Gateway: Optimizes service access and performance through Spring Cloud Gateway.
+- Monitoring and Resilience: Integrated Grafana and Prometheus for observability and reliability.
+### Python Projects
+#### Local RAG LangChain
+[Local RAG LangChain]((https://github.com/billycychan/LLM-RAG-LANGCHAIN)) is a Jupyter Notebook demonstrating a local Retrieval-Augmented Generation (RAG) pipeline for question-answering and document search.
+
+- Document Processing: Loads and splits PDF content with LangChain’s PyPDFLoader and RecursiveCharacterTextSplitter for efficient retrieval.
+- Embedding and Storage: Embeds document chunks using the nomic-embed-text model with OllamaEmbeddings, storing them in Chroma’s vector database.
+- Query Retrieval: Supports similarity-based retrieval for user queries, returning relevant document sections instantly.
+- Easy Setup and Customization: Includes setup instructions, with flexible parameters for embedding models and text splitting to suit various use cases.
+
+### Mobile Projects
 
 #### BinTo: Waste Management Tool for Toronto  ♻️
 "BinTo is your essential companion for eco-friendly living in the city. Seamlessly sort your waste with the Waste Wizard feature, ensuring you contribute to a cleaner environment. Stay informed about your next waste collection schedule effortlessly. Simplify your eco-conscious journey with BinTo."
@@ -75,57 +94,6 @@ It was originally a [take home project](https://seanallen.teachable.com/p/take-h
 <br>
 
 Special thanks to Sean Allen again for providing this free tutorial again.
-
-<br>
-<br>
-
-
-#### Coinmama 💳
-[Coinmama](https://www.coinmama.com/) is the leading cryptocurrency exchange platform to buy & sell crypto with credit card, debit card or bank transfer. It supports Tether (USDT), USD Coin (USDC), Bitcoin (BTC), and Ethereum (ETH).
-
-- Delivered the web3 wallet app in MVVM-C and SwiftUI Architecture
-- Led integration of analytic services with Firebase and Appsflyer
-- Streamlined codebase using the Combine framework, integrating it to the network layer
-- Performed Unit test with XCTest framework
-- Implemented QR Scanner feature for Wallet Connect
-- Designed the Feature Flag System (local/remote) with Firebase Remote Config
-
-<div style="display: flex; flex-direction: row;">
-    <img src="./Assets/Screenshots/Coinmama/coinmama-001-home.png" width = "160" />
-    <img src="./Assets/Screenshots/Coinmama/coinmama-002-market-list.png" width="160" />
-    <img src="./Assets/Screenshots/Coinmama/coinmama-003-market-detail.png" width="160" />
-    <img src="./Assets/Screenshots/Coinmama/coinmama-004-recovery.png" width="160" />
-</div>
-<br>
-
-[![name](./Assets/download-on-app-store.svg)](https://apps.apple.com/us/app/coinmama-crypto-wallet-app/id6443739884)
-
-<br>
-<br>
-
-#### Lalamove 🚚
-
-[Lalamove](https://www.lalamove.com/), the go-to app on the App Store, revolutionizes delivery and logistics. Instantly book on-demand delivery services, whether it's packages, documents, or larger items. Enjoy reliable, efficient, and cost-effective deliveries with a vast network of drivers. Simplify your logistics needs with Lalamove's user-friendly platform.
-
-- Built with VIPER architecture, Swift, Objective-C and UIKit
-- Handled order status change events with Push Notification
-- Integrated Proxyman for efficient 30% reduction network debugging
-- Monitored the crash-free rate with Crashlytics, up to 99%
-- Integrated deeplinks for marketing purposes 
-- Implemented AB Testing with Firebase 
-- Realized Multi-language Localization with [Crowdin](https://crowdin.com/)
-- Refactored Network Module with [Network Layer Demo](https://github.com/billycychan/ios-network-layer-demo) 
-- Utilized pipelines through Fastlane in conjunction with GitLab's CI/CD
-
-<div style="display: flex; flex-direction: row;">
-    <img src="./Assets/Screenshots/Lalamove/lalamove-001-home.png" width="160" />
-    <img src="./Assets/Screenshots/Lalamove/lalamove-002-vehicle-selection.png" width="160" />
-    <img src="./Assets/Screenshots/Lalamove/lalamove-003-order-placing.png" width="160" />
-    <img src="./Assets/Screenshots/Lalamove/lalamove-004-finding-driver.png" width="160" />
-</div>
-<br>
-
-[![name](./Assets/download-on-app-store.svg)](https://apps.apple.com/us/app/lalamove-deliver-faster/id735701965)
 <br>
 <br>
 
@@ -146,23 +114,6 @@ Special thanks to Sean Allen again for providing this free tutorial again.
 Special thanks to Nick Sarno at [Swiftful Thinking](https://www.swiftful-thinking.com/) for providing this production quality [tutorial](https://www.youtube.com/playlist?list=PLwvDm4Vfkdphbc3bgy_LpLRQ9DDfFGcFu). 
 
 <br>
-
-#### Scrumdinger ⌛
-
-Scrumdinger is an app that manages daily meetings.
-
-- SwiftUI essentials, Views, Navigation and modal presentation, Passing data, State management, Persistence and concurrency, Drawing shapes with SwiftUI geometry tools, Recording audio
-
-
-<div style="display: flex; flex-direction: row;">
-    <img src="./Assets/Screenshots/Scrumdinger/scrumdinger-001-list.png" width="160" />
-    <img src="./Assets/Screenshots/Scrumdinger/scrumdinger-002-detail.png" width="160" />
-    <img src="./Assets/Screenshots/Scrumdinger/scrumdinger-003-edit.png" width="160" />
-    <img src="./Assets/Screenshots/Scrumdinger/scrumdinger-004-timer.png" width="160" />
-</div>
-<br>
-
-Special thanks to Apple for providing this [iOS App Dev Tutorials](https://developer.apple.com/tutorials/app-dev-training). 
 
 #### More
 - [TwitterClone](https://github.com/billycychan/TwitterTutorial) 🤖
