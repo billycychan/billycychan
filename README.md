@@ -23,13 +23,18 @@ Here's my Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/), fee
 - Centralized API Gateway: Optimizes service access and performance through Spring Cloud Gateway.
 - Monitoring and Resilience: Integrated Grafana and Prometheus for observability and reliability.
 ### Python Projects
-#### Local RAG LangChain
-[Local RAG LangChain](https://github.com/billycychan/LLM-RAG-LANGCHAIN) is a Jupyter Notebook demonstrating a local Retrieval-Augmented Generation (RAG) pipeline for question-answering and document search.
+#### AI Langchain Documentation Helper
 
-- Document Processing: Loads and splits PDF content with LangChain’s PyPDFLoader and RecursiveCharacterTextSplitter for efficient retrieval.
-- Embedding and Storage: Embeds document chunks using the nomic-embed-text model with OllamaEmbeddings, storing them in Chroma’s vector database.
-- Query Retrieval: Supports similarity-based retrieval for user queries, returning relevant document sections instantly.
-- Easy Setup and Customization: Includes setup instructions, with flexible parameters for embedding models and text splitting to suit various use cases.
+An intelligent Streamlit-based assistant that helps developers navigate and understand the Langchain documentation through an AI-powered chatbot interface.
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-latest-red.svg)
+
+[Live Demo](https://langchain-docs-chatbot.billycychan.com/)
+
+[Langchain Doc Chatbot Demo.webm](https://github.com/user-attachments/assets/c5825a6b-bcdd-4243-bc9a-84cd1803ea35)
+
 
 ### Mobile Projects
 
