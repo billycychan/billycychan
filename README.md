@@ -21,7 +21,10 @@ Here's my Linkedin: [billycychan](https://www.linkedin.com/in/billycychan/), fee
 - Secure User Authentication: OAuth2-based login via Keycloak, ensuring secure access across services.
 - Event-Driven Notifications: Real-time order updates using RabbitMQ for improved user engagement.
 - Centralized API Gateway: Optimizes service access and performance through Spring Cloud Gateway.
-- Monitoring and Resilience: Integrated Grafana and Prometheus for observability and reliability.
+  
+[4d256519-9fe5-4357-8312-16268888a42e.webm](https://github.com/user-attachments/assets/0aa0ad3c-b058-41b0-b38b-0f09b157ae89)
+
+
 ### Python Projects
 #### AI Langchain Documentation Helper
 
